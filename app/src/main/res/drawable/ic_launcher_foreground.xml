@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Mortarboard Cap & School Book -->
+    <!-- Cap Diamond -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28 L82,41 L54,54 L26,41 Z" />
+    <!-- Cap Skull Base -->
+    <path
+        android:fillColor="#E2ECF8"
+        android:pathData="M38,47 L38,60 C38,68 70,68 70,60 L70,47 Z" />
+    <!-- Tassel -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M78,43 L78,63 C76,64 76,66 78,67 C80,66 80,64 78,63 Z" />
+    <!-- Open Book Below -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,68 C38,66 48,67 53,70 L53,86 C48,83 38,82 30,84 Z" />
+    <path
+        android:fillColor="#D8F3DC"
+        android:pathData="M78,68 C70,66 60,67 55,70 L55,86 C60,83 70,82 78,84 Z" />
+    <!-- Book Spine -->
+    <path
+        android:fillColor="#1B365D"
+        android:pathData="M52,69 L56,69 L56,87 L52,87 Z" />
+</vector>

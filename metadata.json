@@ -1,0 +1,6 @@
+{
+  "name": "Smart School Manager",
+  "description": "Bilingual (English & Urdu) offline-first school management system for Primary and Middle schools with UIDAI-compliant student lifecycle, dual attendance register, textbook tracking, leave workflows, and bilingual report cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
